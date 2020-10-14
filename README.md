@@ -1,5 +1,5 @@
 # CKDF-WG
-The Common Keyboard Format Descriptor working group.
+The Common Keyboard Descriptor Format working group.
 
 This is a community effort to build a new, common format to define the physical and electrical characteristics of keyboards.
 
